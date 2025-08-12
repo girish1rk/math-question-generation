@@ -1,0 +1,49 @@
+@title Math Assessment - Combinatorics and Counting
+@description This assessment focuses on counting principles and combinatorial problems involving real-world scenarios.
+
+@question A restaurant offers a lunch special where customers can choose 1 main dish and 1 side dish. The menu shows the following options:
+
+## Lunch Special Menu
+| Main Dish | Side Dish |
+| :---: | :---: |
+| Grilled Chicken | French Fries |
+| Beef Burger | Coleslaw |
+| Fish Fillet | Mashed Potatoes |
+| Vegetarian Pasta | Garden Salad |
+| | Onion Rings |
+
+How many different lunch combinations are possible?
+@instruction Use the counting principle to determine the total number of possible combinations.
+@difficulty moderate
+@order 1
+@option 15 combinations
+@option 20 combinations
+@@option 20 combinations
+@option 30 combinations
+@option 35 combinations
+@explanation Using the counting principle: Number of main dishes × Number of side dishes = 4 × 5 = 20 different combinations. Each main dish can be paired with any of the 5 side dishes, giving us 4 × 5 = 20 total possibilities.
+@subject Quantitative Math
+@unit Problem Solving
+@topic Counting & Arrangement Problems
+@plusmarks 1
+
+@title Math Assessment - Geometry and Spatial Reasoning
+@description This assessment focuses on geometric concepts including area, volume, and spatial relationships.
+
+@question A cylindrical container is designed to hold 8 tennis balls tightly packed in two layers. Each tennis ball has a radius of 3.5 centimeters. The top view shows a circular arrangement with 4 balls in the bottom layer and 4 balls in the top layer. Which of the following is closest to the dimensions of the cylindrical container?
+
+**Note**: The height accounts for two layers of balls, and the diameter accommodates the circular arrangement.
+@instruction Calculate the dimensions needed to accommodate the tightly packed tennis balls in the cylindrical container.
+@difficulty hard
+@order 2
+@option $7 \times 7 \times 14$ cm
+@option $7 \times 7 \times 21$ cm
+@@option $14 \times 14 \times 21$ cm
+@option $14 \times 14 \times 21$ cm
+@option $21 \times 21 \times 28$ cm
+@explanation Each tennis ball has a radius of 3.5 cm, so diameter = 7 cm. For the circular arrangement of 4 balls, the container diameter must be approximately 14 cm (2 × 7 cm). The height must accommodate 2 layers: 2 × 7 cm = 14 cm, plus some spacing, so approximately 21 cm total. Therefore, the closest dimensions are $14 \times 14 \times 21$ cm.
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Area & Volume
+@plusmarks 1
+

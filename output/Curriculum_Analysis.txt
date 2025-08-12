@@ -1,0 +1,66 @@
+CURRICULUM ANALYSIS FOR GENERATED QUESTIONS
+==================================================
+
+The generated questions follow the specified curriculum hierarchy:
+
+CURRICULUM STRUCTURE:
+------------------------------
+Subject: Quantitative Math
+  Unit: Problem Solving
+    Topic: Numbers and Operations
+    Topic: Algebra
+    Topic: Geometry
+    Topic: Problem Solving
+    Topic: Probability and Statistics
+    Topic: Data Analysis
+  Unit: Algebra
+    Topic: Algebraic Word Problems
+    Topic: Interpreting Variables
+    Topic: Polynomial Expressions (FOIL/Factoring)
+    Topic: Rational Expressions
+    Topic: Exponential Expressions (Product rule, negative exponents)
+    Topic: Quadratic Equations & Functions (Finding roots/solutions, graphing)
+    Topic: Functions Operations
+  Unit: Geometry and Measurement
+    Topic: Area & Volume
+    Topic: Perimeter
+    Topic: Lines, Angles, & Triangles
+    Topic: Right Triangles & Trigonometry
+    Topic: Circles (Area, circumference)
+    Topic: Coordinate Geometry
+    Topic: Slope
+    Topic: Transformations (Dilating a shape)
+    Topic: Parallel & Perpendicular Lines
+    Topic: Solid Figures (Volume of Cubes)
+  Unit: Numbers and Operations
+    Topic: Basic Number Theory
+    Topic: Prime & Composite Numbers
+    Topic: Rational Numbers
+    Topic: Order of Operations
+    Topic: Estimation
+    Topic: Fractions, Decimals, & Percents
+    Topic: Sequences & Series
+    Topic: Computation with Whole Numbers
+    Topic: Operations with Negatives
+  Unit: Data Analysis & Probability
+    Topic: Interpretation of Tables & Graphs
+    Topic: Trends & Inferences
+    Topic: Probability (Basic, Compound Events)
+    Topic: Mean, Median, Mode, & Range
+    Topic: Weighted Averages
+    Topic: Counting & Arrangement Problems
+
+QUESTION 1 CURRICULUM MAPPING:
+-----------------------------------
+Subject: Quantitative Math
+Unit: Problem Solving
+Topic: Counting & Arrangement Problems
+Rationale: This question involves counting principles and combinatorial thinking.
+
+QUESTION 2 CURRICULUM MAPPING:
+-----------------------------------
+Subject: Quantitative Math
+Unit: Geometry and Measurement
+Topic: Area & Volume
+Rationale: This question involves geometric concepts, spatial reasoning, and volume calculations.
+
